@@ -1,0 +1,2 @@
+# teoriageneral.
+pagina wed html
